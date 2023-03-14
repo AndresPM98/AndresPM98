@@ -1,7 +1,9 @@
 # **<ins>Hola! Soy Andrés Pérez Merello</ins>**  
   
 
-Soy un **Desarrollador Full-Stack** graduado en el Bootcamp de Henry y con estudios de **Diseño Industrial**. Gracias a mi enfoque multidisciplinario, he desarrollado una perspectiva interesante en la creación de productos digitales y físicos, combinando la funcionalidad con el diseño estético.
+Soy un **Desarrollador Full-Stack** graduado en el Bootcamp de Henry y con estudios de **Diseño Industrial**. 
+
+Gracias a mi enfoque multidisciplinario, he desarrollado una perspectiva interesante en la creación de productos digitales y físicos, combinando la funcionalidad con el diseño estético.
 
 Mi formación en Diseño Industrial me ha brindado una sólida base en el análisis de necesidades del usuario, el pensamiento creativo y la resolución de problemas. Por otro lado, mi experiencia en programación Full-Stack me ha permitido desarrollar habilidades para la creación de aplicaciones web y la gestión de bases de datos.
 
