@@ -1,11 +1,11 @@
+# **<ins>Hola! Soy Andrés Pérez Merello</ins>**  
+  
 
-
-### Hola! soy Andrés Pérez Merello  
-Soy un Desarrollador Full-Stack graduado en el Bootcamp de Henry y con estudios de Diseño Industrial. Gracias a mi enfoque multidisciplinario, desarrollé una perspectiva interesante en la creación de productos digitales y físicos, combinando la funcionalidad con el diseño estético.
+Soy un **Desarrollador Full-Stack** graduado en el Bootcamp de Henry y con estudios de **Diseño Industrial**. Gracias a mi enfoque multidisciplinario, he desarrollado una perspectiva interesante en la creación de productos digitales y físicos, combinando la funcionalidad con el diseño estético.
 
 Mi formación en Diseño Industrial me ha brindado una sólida base en el análisis de necesidades del usuario, el pensamiento creativo y la resolución de problemas. Por otro lado, mi experiencia en programación Full-Stack me ha permitido desarrollar habilidades para la creación de aplicaciones web y la gestión de bases de datos.
 
-Durante mi tiempo en el Bootcamp de Henry, adquirí habilidades en diversas tecnologías de programación, incluyendo Javascript, HTML, CSS, React, Redux, Node.js, entre otras. Estas herramientas han ampliado mi capacidad para resolver problemas y tomar decisiones informadas en el proceso de desarrollo.
+Durante mi tiempo en el Bootcamp de Henry, he adquirido habilidades en diversas tecnologías de programación, incluyendo **Javascript, HTML, CSS, React, Redux, Node.js**, entre otras. Estas herramientas han ampliado mi capacidad para resolver problemas y tomar decisiones informadas en el proceso de desarrollo.
 
 Como Desarrollador Full-Stack, estoy capacitado para trabajar en todas las capas de una aplicación web, desde el front-end hasta el back-end, lo que me permite tener una visión completa del proceso de creación y ejecución de un producto digital. 
 
@@ -16,8 +16,6 @@ En mi trabajo, busco siempre encontrar el equilibrio entre el diseño y la funci
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -32,17 +30,7 @@ En mi trabajo, busco siempre encontrar el equilibrio entre el diseño y la funci
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
